@@ -13,7 +13,7 @@ This project focuses on front-end design only (no backend or JavaScript function
 ---
 
 ## Project Structure
-```
+````
 
 Login-Registration-Page/
 │── Login Page/ # Contains HTML & CSS for Login page
@@ -24,9 +24,9 @@ Login-Registration-Page/
 ````
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Clone the repository:
-   ```bash
+   ````bash
    git clone https://github.com/RabiaSiddique07/Login-Registration-Page.git
 ````
 
@@ -37,8 +37,8 @@ Login-Registration-Page/
 
 ## 🛠️ Technologies Used
 
-* **HTML5**
-* **CSS3**
+- **HTML5**
+- **CSS3**
 
 ---
 
@@ -55,4 +55,4 @@ Login-Registration-Page/
 Designed and developed by **Rabia Siddique**. <br>
 Feel free to fork and customize for your own projects!
 
-```
+````
